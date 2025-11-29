@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react"
 import { Button } from "@/components/ui/button"
 import { Menu, X } from "lucide-react"
-import Image from "next/images"
+import Image from "next"
 
 export function Navigation() {
   const [scrolled, setScrolled] = useState(false)
