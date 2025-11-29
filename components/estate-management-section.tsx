@@ -55,7 +55,7 @@ export function EstateManagementSection() {
 
           <div className="relative">
             <img
-              src="/luxury-gated-community-entrance-ghana-security.jpg"
+              src="luxury-gated-community-entrance-ghana-security.jpg"
               alt="Estate Management"
               className="w-full h-[600px] object-cover rounded-3xl shadow-2xl"
             />
