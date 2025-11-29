@@ -25,7 +25,7 @@ export function HeroSection() {
             Explore Homes
             <ArrowRight className="ml-2 h-5 w-5" />
           </Button>
-          <a href="/MULBERRY-BROCHURE.pdf" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Inkoom-Justice/melbury_web/blob/1cf5a6b780f591530bcd32797646769c611f23f2/components/MULBERRY-BROCHURE.pdf" target="_blank" rel="noopener noreferrer">
           <Button
             variant="outline"
             className="border-2 border-white text-white hover:bg-white hover:text-luxury-charcoal rounded-full px-8 py-6 text-lg bg-transparent"
