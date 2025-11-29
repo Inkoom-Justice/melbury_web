@@ -53,7 +53,7 @@ export function WelcomeSection() {
           {/* Image */}
           <div className="relative">
             <img
-              src="/luxury-modern-home-interior-living-room-ghana.jpg"
+              src="luxury-modern-home-interior-living-room-ghana.jpg"
               alt="Mulberry Court Interior"
               className="w-full h-[600px] object-cover rounded-3xl shadow-2xl"
             />
