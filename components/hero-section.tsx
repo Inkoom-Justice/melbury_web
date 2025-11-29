@@ -8,7 +8,8 @@ export function HeroSection() {
     <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
-        <img src="../public/modern-luxury-home-exterior-architecture-in-ghana.jpg" alt="Mulberry Court" className="w-full h-full object-cover" />
+        <img src="https://github.com/Inkoom-Justice/melbury_web/blob/a9a365a0fed9f2ce2c46ba381d9e5b7775123911/public/modern-luxury-home-exterior-architecture-in-ghana.jpg" alt="Mulberry Court" className="w-full h-full object-cover" />
+          {/*"../public/modern-luxury-home-exterior-architecture-in-ghana.jpg"*/}
         <div className="absolute inset-0 bg-gradient-to-b from-luxury-charcoal/70 via-luxury-charcoal/50 to-luxury-charcoal/70" />
       </div>
 
