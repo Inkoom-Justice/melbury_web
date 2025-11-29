@@ -71,7 +71,7 @@ export function ContactSection() {
             </Card>
 
             <div className="relative h-80 rounded-3xl overflow-hidden">
-              <img src="/map-east-legon-accra-location-pin.jpg" alt="Map" className="w-full h-full object-cover" />
+              <img src="map-east-legon-accra-location-pin.jpg" alt="Map" className="w-full h-full object-cover" />
             </div>
           </div>
 
