@@ -39,8 +39,8 @@ export function Navigation() {
             <Image
               src={
                 scrolled
-                  ? "/mulberry-homes-logo-refined-black.png"
-                  : "/mulberry-homes-logo-refined-white.png"
+                  ? "/images/mulberry-homes-logo-refined-black.png"
+                  : "/images/mulberry-homes-logo-refined-white.png"
               }
               alt="Mulberry Court"
               width={120}
