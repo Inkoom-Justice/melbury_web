@@ -60,7 +60,7 @@ export function LocationSection() {
           </div>
 
           <div className="relative h-[600px] rounded-3xl overflow-hidden shadow-2xl">
-            <img src="/map-of-east-legon-accra-ghana-luxury-neighborhood.jpg" alt="Location Map" className="w-full h-full object-cover" />
+            <img src="map-of-east-legon-accra-ghana-luxury-neighborhood.jpg" alt="Location Map" className="w-full h-full object-cover" />
           </div>
         </div>
       </div>
