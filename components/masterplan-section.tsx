@@ -7,13 +7,13 @@ const floorPlans = [
     title: "Ground Floor",
     area: "1,250 sqft",
     features: ["Living Area", "Dining Area", "Kitchen", "Bedroom", "Bathroom", "Kitchen Yard"],
-    image: "/architectural-floor-plan-ground-floor-luxury-home.jpg",
+    image: "architectural-floor-plan-ground-floor-luxury-home.jpg",
   },
   {
     title: "First Floor",
     area: "1,155 sqft",
     features: ["3 Bedrooms", "2 Bathrooms", "Family Area", "Balcony", "Walk-in Closets"],
-    image: "/architectural-floor-plan-first-floor-luxury-home.jpg",
+    image: "architectural-floor-plan-first-floor-luxury-home.jpg",
   },
 ]
 
@@ -34,7 +34,7 @@ export function MasterplanSection() {
           {floorPlans.map((plan) => (
             <Card key={plan.title} className="bg-white rounded-3xl overflow-hidden shadow-xl border-0">
               <div className="relative h-80">
-                <img src={plan.image || "/placeholder.svg"} alt={plan.title} className="w-full h-full object-cover" />
+                <img src={plan.image || "placeholder.svg"} alt={plan.title} className="w-full h-full object-cover" />
                 <div className="absolute top-6 left-6 bg-luxury-gold text-white px-4 py-2 rounded-full font-semibold">
                   {plan.area}
                 </div>
