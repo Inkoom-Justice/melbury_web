@@ -16,10 +16,10 @@ export function LifestyleSection() {
 
         <div className="grid md:grid-cols-2 gap-8">
           <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-xl">
-            <img src="/luxury-lifestyle-dining-modern-home-ghana.jpg" alt="Lifestyle" className="w-full h-full object-cover" />
+            <img src="luxury-lifestyle-dining-modern-home-ghana.jpg" alt="Lifestyle" className="w-full h-full object-cover" />
           </div>
           <div className="relative h-[500px] rounded-3xl overflow-hidden shadow-xl">
-            <img src="/modern-luxury-home-outdoor-space-ghana-evening.jpg" alt="Lifestyle" className="w-full h-full object-cover" />
+            <img src="modern-luxury-home-outdoor-space-ghana-evening.jpg" alt="Lifestyle" className="w-full h-full object-cover" />
           </div>
         </div>
 
